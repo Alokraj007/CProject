@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-20T15:36:12 IST" name="Suite" finished-at="2022-06-20T15:36:33 IST" duration-ms="20872">
+    <groups>
+    </groups>
+    <test started-at="2022-06-20T15:36:12 IST" name="Test" finished-at="2022-06-20T15:36:33 IST" duration-ms="20872">
+      <class name="Practice.CucumberProject.HomePage">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Practice.CucumberProject.HomePage@34a1d21f]" started-at="2022-06-20T15:36:12 IST" name="initialize" finished-at="2022-06-20T15:36:25 IST" duration-ms="13401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="basePageNav()[pri:0, instance:Practice.CucumberProject.HomePage@34a1d21f]" started-at="2022-06-20T15:36:25 IST" name="basePageNav" finished-at="2022-06-20T15:36:32 IST" duration-ms="7091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNav -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Practice.CucumberProject.HomePage@34a1d21f]" started-at="2022-06-20T15:36:32 IST" name="teardown" finished-at="2022-06-20T15:36:33 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Practice.CucumberProject.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

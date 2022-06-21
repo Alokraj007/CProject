@@ -19,7 +19,6 @@ public class HomePage extends base {
 	public void initialize() throws IOException 
 	{
 		driver = initilizeBrowser();
-		log.info("Driver is initialized");
 		driver.get(prop.getProperty("url"));
 		log.info("Url is triggerd");
 		
